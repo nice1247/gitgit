@@ -7,3 +7,4 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
+src/main/webapp/WEB-INF/testfolder/
